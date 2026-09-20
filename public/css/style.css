@@ -1310,8 +1310,12 @@ body.js-active .hero-subtitle-fallback {
   }
 
   .hero-floating-badge {
-    display: none;
+    transform: scale(0.75);
+    z-index: 10;
   }
+  .badge-1 { top: -10px; left: -10px; }
+  .badge-2 { bottom: 10px; right: -10px; }
+  .badge-3 { bottom: -10px; left: -10px; }
 
   .about-grid {
     grid-template-columns: 1fr;
