@@ -419,6 +419,7 @@
                 </div>
             </div>
 
+            {{-- TEMPORARILY HIDDEN PENDING DOCUMENTATION
             <div class="project-card" data-aos="fade-up" data-aos-delay="200" data-tilt>
                 <div class="project-image">
                     <img src="https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop" alt="ANFORCOM Event">
@@ -465,6 +466,7 @@
                     </div>
                 </div>
             </div>
+            --}}
         </div>
     </div>
 </section>
